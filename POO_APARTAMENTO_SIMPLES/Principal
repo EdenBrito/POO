@@ -3,7 +3,7 @@ package apartamento_09_20;
 public class Principal {
 	public static void main(String[] args) {
 		
-		Apartamento ap1 = new Apartamento();
+	Apartamento ap1 = new Apartamento();
     	ap1.proprietario = "Charles Bronson";
     	ap1.qtdQuartos = 2;
     	ap1.qtdBanheiros = 2;
